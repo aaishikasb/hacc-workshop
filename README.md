@@ -1,3 +1,3 @@
 # hacc-workshop
 ## Attendees
-Name, City
+Aaishika, Chennai
